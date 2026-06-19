@@ -1,0 +1,548 @@
+customer_id,customer_name,region,segment
+101,Healthcare-Org-101,soUTHeast,Nursing Home
+102,Healthcare-Org-102, Midwest ,public hospital
+103,Healthcare-Org-103,soUTHeast,Private Clinic
+104,Healthcare-Org-104,midWEST,private clinic
+105,Healthcare-Org-105,SOUTHEAST,nursing home
+106,Healthcare-Org-106,soUTHeast,diagnostic center
+107,Healthcare-Org-107, Midwest ,Nursing Home
+108,Healthcare-Org-108,midWEST,diagnostic center
+109,Healthcare-Org-109,wEsT,diagnostic center
+110,healthcare-org-110,southwest,Diagnostic Center
+111,Healthcare-Org-111,soUTHeast,Public Hospital
+112,Healthcare-Org-112,wEsT,Public Hospital
+113,Healthcare-Org-113,northeast,private clinic
+114,Healthcare-Org-114,SouthWest,Public Hospital
+115,Healthcare-Org-115,northeast,Diagnostic Center
+116,Healthcare-Org-116,Northeast,private clinic
+117,Healthcare-Org-117,midWEST,Diagnostic Center
+118,Healthcare-Org-118,northeast,Public Hospital
+119,Healthcare-Org-119, Midwest ,Private Clinic
+120,healthcare-org-120,SOUTHEAST,Public Hospital
+121,Healthcare-Org-121,northeast,Public Hospital
+122,Healthcare-Org-122,SouthWest,Public Hospital
+123,Healthcare-Org-123,soUTHeast,Nursing Home
+124,Healthcare-Org-124,Northeast,public hospital
+125,Healthcare-Org-125,SOUTHEAST,diagnostic center
+126,Healthcare-Org-126,wEsT,Public Hospital
+127,Healthcare-Org-127,northeast,private clinic
+128,Healthcare-Org-128,SOUTHEAST,Diagnostic Center
+129,Healthcare-Org-129,southwest,public hospital
+130,healthcare-org-130,northeast,private clinic
+131,Healthcare-Org-131,midWEST,public hospital
+132,Healthcare-Org-132,wEsT,nursing home
+133,Healthcare-Org-133,SOUTHEAST,public hospital
+134,Healthcare-Org-134,SOUTHEAST,public hospital
+135,Healthcare-Org-135,SouthWest,private clinic
+136,Healthcare-Org-136,SouthWest,private clinic
+137,Healthcare-Org-137,SouthWest,public hospital
+138,Healthcare-Org-138,West,public hospital
+139,Healthcare-Org-139,Northeast,nursing home
+140,healthcare-org-140,southwest,public hospital
+141,Healthcare-Org-141,northeast,nursing home
+142,Healthcare-Org-142,SOUTHEAST,Private Clinic
+143,Healthcare-Org-143, Midwest ,public hospital
+144,Healthcare-Org-144,West,Nursing Home
+145,Healthcare-Org-145,SouthWest,Private Clinic
+146,Healthcare-Org-146,southwest,public hospital
+147,Healthcare-Org-147,wEsT,Nursing Home
+148,Healthcare-Org-148,SouthWest,Diagnostic Center
+149,Healthcare-Org-149,soUTHeast,diagnostic center
+150,healthcare-org-150,West,Diagnostic Center
+151,Healthcare-Org-151,West,private clinic
+152,Healthcare-Org-152,Northeast,diagnostic center
+153,Healthcare-Org-153, Midwest ,Private Clinic
+154,Healthcare-Org-154,soUTHeast,Private Clinic
+155,Healthcare-Org-155, Midwest ,Diagnostic Center
+156,Healthcare-Org-156,northeast,nursing home
+157,Healthcare-Org-157,soUTHeast,private clinic
+158,Healthcare-Org-158,Northeast,public hospital
+159,Healthcare-Org-159,wEsT,private clinic
+160,healthcare-org-160,northeast,Nursing Home
+161,Healthcare-Org-161,West,Public Hospital
+162,Healthcare-Org-162,Northeast,Private Clinic
+163,Healthcare-Org-163,southwest,diagnostic center
+164,Healthcare-Org-164,SouthWest,Diagnostic Center
+165,Healthcare-Org-165,soUTHeast,public hospital
+166,Healthcare-Org-166,SouthWest,diagnostic center
+167,Healthcare-Org-167,midWEST,Public Hospital
+168,Healthcare-Org-168,midWEST,diagnostic center
+169,Healthcare-Org-169,wEsT,nursing home
+170,healthcare-org-170,wEsT,Public Hospital
+171,Healthcare-Org-171,soUTHeast,nursing home
+172,Healthcare-Org-172,West,Public Hospital
+173,Healthcare-Org-173,West,diagnostic center
+174,Healthcare-Org-174,northeast,Nursing Home
+175,Healthcare-Org-175, Midwest ,nursing home
+176,Healthcare-Org-176,soUTHeast,diagnostic center
+177,Healthcare-Org-177,Northeast,Diagnostic Center
+178,Healthcare-Org-178,soUTHeast,Private Clinic
+179,Healthcare-Org-179,soUTHeast,public hospital
+180,healthcare-org-180,Northeast,public hospital
+181,Healthcare-Org-181,Northeast,private clinic
+182,Healthcare-Org-182,northeast,private clinic
+183,Healthcare-Org-183,West,Private Clinic
+184,Healthcare-Org-184,SouthWest,Diagnostic Center
+185,Healthcare-Org-185,SouthWest,private clinic
+186,Healthcare-Org-186,northeast,public hospital
+187,Healthcare-Org-187,midWEST,private clinic
+188,Healthcare-Org-188,soUTHeast,Private Clinic
+189,Healthcare-Org-189,West,Public Hospital
+190,healthcare-org-190,southwest,Private Clinic
+191,Healthcare-Org-191,SOUTHEAST,Nursing Home
+192,Healthcare-Org-192,West,diagnostic center
+193,Healthcare-Org-193,midWEST,public hospital
+194,Healthcare-Org-194,SOUTHEAST,diagnostic center
+195,Healthcare-Org-195,midWEST,nursing home
+196,Healthcare-Org-196, Midwest ,Nursing Home
+197,Healthcare-Org-197, Midwest ,Public Hospital
+198,Healthcare-Org-198, Midwest ,Nursing Home
+199,Healthcare-Org-199,SouthWest,diagnostic center
+200,healthcare-org-200,Northeast,Diagnostic Center
+201,Healthcare-Org-201,soUTHeast,diagnostic center
+202,Healthcare-Org-202,northeast,private clinic
+203,Healthcare-Org-203,midWEST,Private Clinic
+204,Healthcare-Org-204,northeast,public hospital
+205,Healthcare-Org-205,West,Private Clinic
+206,Healthcare-Org-206,southwest,Nursing Home
+207,Healthcare-Org-207,Northeast,private clinic
+208,Healthcare-Org-208,midWEST,nursing home
+209,Healthcare-Org-209,soUTHeast,diagnostic center
+210,healthcare-org-210,West,nursing home
+211,Healthcare-Org-211,Northeast,Private Clinic
+212,Healthcare-Org-212,southwest,Private Clinic
+213,Healthcare-Org-213,northeast,private clinic
+214,Healthcare-Org-214,midWEST,private clinic
+215,Healthcare-Org-215,SouthWest,Private Clinic
+216,Healthcare-Org-216,Northeast,private clinic
+217,Healthcare-Org-217,soUTHeast,Private Clinic
+218,Healthcare-Org-218,midWEST,Nursing Home
+219,Healthcare-Org-219,southwest,private clinic
+220,healthcare-org-220,SOUTHEAST,Public Hospital
+221,Healthcare-Org-221,wEsT,Private Clinic
+222,Healthcare-Org-222,southwest,Private Clinic
+223,Healthcare-Org-223,wEsT,diagnostic center
+224,Healthcare-Org-224,midWEST,Nursing Home
+225,Healthcare-Org-225,northeast,nursing home
+226,Healthcare-Org-226,midWEST,Public Hospital
+227,Healthcare-Org-227,northeast,Public Hospital
+228,Healthcare-Org-228,West,Public Hospital
+229,Healthcare-Org-229,northeast,private clinic
+230,healthcare-org-230,midWEST,Nursing Home
+231,Healthcare-Org-231,midWEST,diagnostic center
+232,Healthcare-Org-232,southwest,public hospital
+233,Healthcare-Org-233,wEsT,Public Hospital
+234,Healthcare-Org-234,wEsT,Private Clinic
+235,Healthcare-Org-235,southwest,nursing home
+236,Healthcare-Org-236,SOUTHEAST,Private Clinic
+237,Healthcare-Org-237, Midwest ,private clinic
+238,Healthcare-Org-238,northeast,nursing home
+239,Healthcare-Org-239,SouthWest,diagnostic center
+240,healthcare-org-240,southwest,public hospital
+241,Healthcare-Org-241,northeast,Public Hospital
+242,Healthcare-Org-242,SouthWest,diagnostic center
+243,Healthcare-Org-243,wEsT,private clinic
+244,Healthcare-Org-244, Midwest ,nursing home
+245,Healthcare-Org-245,northeast,diagnostic center
+246,Healthcare-Org-246,southwest,diagnostic center
+247,Healthcare-Org-247,soUTHeast,Diagnostic Center
+248,Healthcare-Org-248,wEsT,private clinic
+249,Healthcare-Org-249,SOUTHEAST,private clinic
+250,healthcare-org-250,northeast,Diagnostic Center
+251,Healthcare-Org-251,Northeast,Diagnostic Center
+252,Healthcare-Org-252,West,Diagnostic Center
+253,Healthcare-Org-253,SOUTHEAST,private clinic
+254,Healthcare-Org-254,SOUTHEAST,Nursing Home
+255,Healthcare-Org-255,Northeast,Private Clinic
+256,Healthcare-Org-256,SouthWest,public hospital
+257,Healthcare-Org-257,soUTHeast,Private Clinic
+258,Healthcare-Org-258,West,diagnostic center
+259,Healthcare-Org-259,SOUTHEAST,private clinic
+260,healthcare-org-260,southwest,Nursing Home
+261,Healthcare-Org-261,SouthWest,Private Clinic
+262,Healthcare-Org-262,midWEST,nursing home
+263,Healthcare-Org-263,wEsT,Nursing Home
+264,Healthcare-Org-264, Midwest ,Public Hospital
+265,Healthcare-Org-265,West,private clinic
+266,Healthcare-Org-266,wEsT,diagnostic center
+267,Healthcare-Org-267,SOUTHEAST,Private Clinic
+268,Healthcare-Org-268,midWEST,private clinic
+269,Healthcare-Org-269,soUTHeast,Diagnostic Center
+270,healthcare-org-270,soUTHeast,public hospital
+271,Healthcare-Org-271,southwest,Private Clinic
+272,Healthcare-Org-272,SOUTHEAST,diagnostic center
+273,Healthcare-Org-273,Northeast,Nursing Home
+274,Healthcare-Org-274,Northeast,nursing home
+275,Healthcare-Org-275, Midwest ,Nursing Home
+276,Healthcare-Org-276, Midwest ,nursing home
+277,Healthcare-Org-277,SOUTHEAST,diagnostic center
+278,Healthcare-Org-278,soUTHeast,Nursing Home
+279,Healthcare-Org-279,West,Nursing Home
+280,healthcare-org-280,northeast,public hospital
+281,Healthcare-Org-281,West,private clinic
+282,Healthcare-Org-282,soUTHeast,nursing home
+283,Healthcare-Org-283,SouthWest,Private Clinic
+284,Healthcare-Org-284,wEsT,public hospital
+285,Healthcare-Org-285,soUTHeast,nursing home
+286,Healthcare-Org-286, Midwest ,Nursing Home
+287,Healthcare-Org-287,SouthWest,Public Hospital
+288,Healthcare-Org-288,SOUTHEAST,private clinic
+289,Healthcare-Org-289, Midwest ,Diagnostic Center
+290,healthcare-org-290,wEsT,nursing home
+291,Healthcare-Org-291,West,diagnostic center
+292,Healthcare-Org-292,soUTHeast,Private Clinic
+293,Healthcare-Org-293,wEsT,public hospital
+294,Healthcare-Org-294,Northeast,Diagnostic Center
+295,Healthcare-Org-295,Northeast,public hospital
+296,Healthcare-Org-296, Midwest ,diagnostic center
+297,Healthcare-Org-297, Midwest ,public hospital
+298,Healthcare-Org-298,midWEST,Private Clinic
+299,Healthcare-Org-299,soUTHeast,Diagnostic Center
+300,healthcare-org-300,midWEST,Nursing Home
+301,Healthcare-Org-301,SouthWest,public hospital
+302,Healthcare-Org-302,soUTHeast,private clinic
+303,Healthcare-Org-303,SOUTHEAST,diagnostic center
+304,Healthcare-Org-304,southwest,public hospital
+305,Healthcare-Org-305,southwest,private clinic
+306,Healthcare-Org-306,northeast,Nursing Home
+307,Healthcare-Org-307,northeast,Nursing Home
+308,Healthcare-Org-308,midWEST,Private Clinic
+309,Healthcare-Org-309, Midwest ,nursing home
+310,healthcare-org-310,southwest,public hospital
+311,Healthcare-Org-311,northeast,private clinic
+312,Healthcare-Org-312,SOUTHEAST,private clinic
+313,Healthcare-Org-313,SOUTHEAST,Diagnostic Center
+314,Healthcare-Org-314,southwest,Public Hospital
+315,Healthcare-Org-315, Midwest ,diagnostic center
+316,Healthcare-Org-316,SouthWest,Diagnostic Center
+317,Healthcare-Org-317,SouthWest,Diagnostic Center
+318,Healthcare-Org-318,soUTHeast,Diagnostic Center
+319,Healthcare-Org-319,southwest,Diagnostic Center
+320,healthcare-org-320,midWEST,Diagnostic Center
+321,Healthcare-Org-321,West,diagnostic center
+322,Healthcare-Org-322,West,Nursing Home
+323,Healthcare-Org-323,wEsT,public hospital
+324,Healthcare-Org-324,southwest,Public Hospital
+325,Healthcare-Org-325,West,private clinic
+326,Healthcare-Org-326,SouthWest,Private Clinic
+327,Healthcare-Org-327,midWEST,Public Hospital
+328,Healthcare-Org-328,wEsT,nursing home
+329,Healthcare-Org-329, Midwest ,private clinic
+330,healthcare-org-330,midWEST,Public Hospital
+331,Healthcare-Org-331,West,Public Hospital
+332,Healthcare-Org-332, Midwest ,diagnostic center
+333,Healthcare-Org-333,southwest,nursing home
+334,Healthcare-Org-334,soUTHeast,Diagnostic Center
+335,Healthcare-Org-335,Northeast,Private Clinic
+336,Healthcare-Org-336,wEsT,Diagnostic Center
+337,Healthcare-Org-337,SOUTHEAST,private clinic
+338,Healthcare-Org-338,SouthWest,Private Clinic
+339,Healthcare-Org-339,SOUTHEAST,Private Clinic
+340,healthcare-org-340,midWEST,Public Hospital
+341,Healthcare-Org-341,soUTHeast,private clinic
+342,Healthcare-Org-342,West,public hospital
+343,Healthcare-Org-343,northeast,Nursing Home
+344,Healthcare-Org-344,SouthWest,diagnostic center
+345,Healthcare-Org-345,northeast,Public Hospital
+346,Healthcare-Org-346, Midwest ,Private Clinic
+347,Healthcare-Org-347,SOUTHEAST,nursing home
+348,Healthcare-Org-348,SouthWest,diagnostic center
+349,Healthcare-Org-349,northeast,Diagnostic Center
+350,healthcare-org-350,wEsT,Private Clinic
+351,Healthcare-Org-351,SouthWest,Diagnostic Center
+352,Healthcare-Org-352,SOUTHEAST,Public Hospital
+353,Healthcare-Org-353,northeast,nursing home
+354,Healthcare-Org-354,northeast,Private Clinic
+355,Healthcare-Org-355,midWEST,private clinic
+356,Healthcare-Org-356,SouthWest,Nursing Home
+357,Healthcare-Org-357,wEsT,Diagnostic Center
+358,Healthcare-Org-358, Midwest ,public hospital
+359,Healthcare-Org-359,soUTHeast,Public Hospital
+360,healthcare-org-360,SouthWest,Private Clinic
+361,Healthcare-Org-361,wEsT,Private Clinic
+362,Healthcare-Org-362,wEsT,diagnostic center
+363,Healthcare-Org-363,wEsT,private clinic
+364,Healthcare-Org-364, Midwest ,private clinic
+365,Healthcare-Org-365,SOUTHEAST,Private Clinic
+366,Healthcare-Org-366, Midwest ,Nursing Home
+367,Healthcare-Org-367,SouthWest,diagnostic center
+368,Healthcare-Org-368,midWEST,nursing home
+369,Healthcare-Org-369,SouthWest,public hospital
+370,healthcare-org-370,midWEST,private clinic
+371,Healthcare-Org-371, Midwest ,Private Clinic
+372,Healthcare-Org-372,southwest,diagnostic center
+373,Healthcare-Org-373,northeast,Diagnostic Center
+374,Healthcare-Org-374,SOUTHEAST,public hospital
+375,Healthcare-Org-375,West,nursing home
+376,Healthcare-Org-376, Midwest ,private clinic
+377,Healthcare-Org-377,wEsT,diagnostic center
+378,Healthcare-Org-378,West,private clinic
+379,Healthcare-Org-379,SOUTHEAST,Public Hospital
+380,healthcare-org-380,soUTHeast,Private Clinic
+381,Healthcare-Org-381,Northeast,Private Clinic
+382,Healthcare-Org-382,soUTHeast,private clinic
+383,Healthcare-Org-383,SouthWest,nursing home
+384,Healthcare-Org-384,SouthWest,private clinic
+385,Healthcare-Org-385,SouthWest,Nursing Home
+386,Healthcare-Org-386, Midwest ,public hospital
+387,Healthcare-Org-387,southwest,Nursing Home
+388,Healthcare-Org-388,soUTHeast,nursing home
+389,Healthcare-Org-389,SOUTHEAST,Private Clinic
+390,healthcare-org-390,southwest,Private Clinic
+391,Healthcare-Org-391, Midwest ,Nursing Home
+392,Healthcare-Org-392,West,Nursing Home
+393,Healthcare-Org-393,soUTHeast,Diagnostic Center
+394,Healthcare-Org-394,southwest,Diagnostic Center
+395,Healthcare-Org-395,wEsT,public hospital
+396,Healthcare-Org-396,northeast,private clinic
+397,Healthcare-Org-397,northeast,Public Hospital
+398,Healthcare-Org-398,SOUTHEAST,public hospital
+399,Healthcare-Org-399,northeast,private clinic
+400,healthcare-org-400,midWEST,diagnostic center
+401,Healthcare-Org-401,midWEST,private clinic
+402,Healthcare-Org-402,SOUTHEAST,private clinic
+403,Healthcare-Org-403, Midwest ,public hospital
+404,Healthcare-Org-404,wEsT,nursing home
+405,Healthcare-Org-405,midWEST,Nursing Home
+406,Healthcare-Org-406,West,public hospital
+407,Healthcare-Org-407,West,diagnostic center
+408,Healthcare-Org-408,northeast,nursing home
+409,Healthcare-Org-409,northeast,public hospital
+410,healthcare-org-410,southwest,Public Hospital
+411,Healthcare-Org-411,southwest,private clinic
+412,Healthcare-Org-412,soUTHeast,public hospital
+413,Healthcare-Org-413, Midwest ,Private Clinic
+414,Healthcare-Org-414,Northeast,Nursing Home
+415,Healthcare-Org-415,SouthWest,Nursing Home
+416,Healthcare-Org-416,wEsT,diagnostic center
+417,Healthcare-Org-417,SouthWest,diagnostic center
+418,Healthcare-Org-418,West,Nursing Home
+419,Healthcare-Org-419,northeast,public hospital
+420,healthcare-org-420, Midwest ,Private Clinic
+421,Healthcare-Org-421,midWEST,public hospital
+422,Healthcare-Org-422,West,Private Clinic
+423,Healthcare-Org-423,SouthWest,Public Hospital
+424,Healthcare-Org-424,northeast,public hospital
+425,Healthcare-Org-425,midWEST,diagnostic center
+426,Healthcare-Org-426,Northeast,diagnostic center
+427,Healthcare-Org-427,soUTHeast,public hospital
+428,Healthcare-Org-428,midWEST,nursing home
+429,Healthcare-Org-429,northeast,Private Clinic
+430,healthcare-org-430,Northeast,diagnostic center
+431,Healthcare-Org-431,West,Public Hospital
+432,Healthcare-Org-432,northeast,Diagnostic Center
+433,Healthcare-Org-433,southwest,diagnostic center
+434,Healthcare-Org-434,midWEST,public hospital
+435,Healthcare-Org-435,wEsT,Public Hospital
+436,Healthcare-Org-436,Northeast,public hospital
+437,Healthcare-Org-437,Northeast,public hospital
+438,Healthcare-Org-438,Northeast,Public Hospital
+439,Healthcare-Org-439,northeast,Public Hospital
+440,healthcare-org-440,Northeast,diagnostic center
+441,Healthcare-Org-441,West,Diagnostic Center
+442,Healthcare-Org-442,southwest,nursing home
+443,Healthcare-Org-443,midWEST,nursing home
+444,Healthcare-Org-444,midWEST,private clinic
+445,Healthcare-Org-445,West,Nursing Home
+446,Healthcare-Org-446,midWEST,Diagnostic Center
+447,Healthcare-Org-447,northeast,diagnostic center
+448,Healthcare-Org-448,wEsT,public hospital
+449,Healthcare-Org-449, Midwest ,diagnostic center
+450,healthcare-org-450,SouthWest,Public Hospital
+451,Healthcare-Org-451,soUTHeast,nursing home
+452,Healthcare-Org-452,Northeast,Private Clinic
+453,Healthcare-Org-453,wEsT,public hospital
+454,Healthcare-Org-454,soUTHeast,Diagnostic Center
+455,Healthcare-Org-455,soUTHeast,diagnostic center
+456,Healthcare-Org-456,northeast,Private Clinic
+457,Healthcare-Org-457,Northeast,nursing home
+458,Healthcare-Org-458,southwest,nursing home
+459,Healthcare-Org-459,soUTHeast,Nursing Home
+460,healthcare-org-460, Midwest ,Diagnostic Center
+461,Healthcare-Org-461,West,nursing home
+462,Healthcare-Org-462,SouthWest,Public Hospital
+463,Healthcare-Org-463,wEsT,private clinic
+464,Healthcare-Org-464,SOUTHEAST,Public Hospital
+465,Healthcare-Org-465,midWEST,Diagnostic Center
+466,Healthcare-Org-466,Northeast,nursing home
+467,Healthcare-Org-467,soUTHeast,diagnostic center
+468,Healthcare-Org-468,northeast,Public Hospital
+469,Healthcare-Org-469,SOUTHEAST,Private Clinic
+470,healthcare-org-470,wEsT,Private Clinic
+471,Healthcare-Org-471,Northeast,Nursing Home
+472,Healthcare-Org-472,southwest,private clinic
+473,Healthcare-Org-473,SOUTHEAST,private clinic
+474,Healthcare-Org-474,West,diagnostic center
+475,Healthcare-Org-475,SOUTHEAST,Nursing Home
+476,Healthcare-Org-476,northeast,Public Hospital
+477,Healthcare-Org-477,southwest,diagnostic center
+478,Healthcare-Org-478,SOUTHEAST,public hospital
+479,Healthcare-Org-479,West,public hospital
+480,healthcare-org-480, Midwest ,Private Clinic
+481,Healthcare-Org-481, Midwest ,private clinic
+482,Healthcare-Org-482,midWEST,public hospital
+483,Healthcare-Org-483,northeast,private clinic
+484,Healthcare-Org-484,wEsT,Private Clinic
+485,Healthcare-Org-485, Midwest ,Nursing Home
+486,Healthcare-Org-486,wEsT,private clinic
+487,Healthcare-Org-487,midWEST,Private Clinic
+488,Healthcare-Org-488,northeast,public hospital
+489,Healthcare-Org-489,West,Diagnostic Center
+490,healthcare-org-490,SouthWest,Diagnostic Center
+491,Healthcare-Org-491,Northeast,private clinic
+492,Healthcare-Org-492,northeast,public hospital
+493,Healthcare-Org-493,SouthWest,public hospital
+494,Healthcare-Org-494,SOUTHEAST,nursing home
+495,Healthcare-Org-495,wEsT,diagnostic center
+496,Healthcare-Org-496,soUTHeast,Nursing Home
+497,Healthcare-Org-497,SouthWest,Public Hospital
+498,Healthcare-Org-498,wEsT,Diagnostic Center
+499,Healthcare-Org-499,northeast,Nursing Home
+500,healthcare-org-500,wEsT,public hospital
+501,Healthcare-Org-501,midWEST,Public Hospital
+502,Healthcare-Org-502,northeast,diagnostic center
+503,Healthcare-Org-503,soUTHeast,Private Clinic
+504,Healthcare-Org-504,southwest,Private Clinic
+505,Healthcare-Org-505,wEsT,public hospital
+506,Healthcare-Org-506,Northeast,nursing home
+507,Healthcare-Org-507,soUTHeast,Public Hospital
+508,Healthcare-Org-508,West,Diagnostic Center
+509,Healthcare-Org-509,southwest,Diagnostic Center
+510,healthcare-org-510,Northeast,diagnostic center
+511,Healthcare-Org-511,northeast,nursing home
+512,Healthcare-Org-512,Northeast,Nursing Home
+513,Healthcare-Org-513,West,private clinic
+514,Healthcare-Org-514,Northeast,Private Clinic
+515,Healthcare-Org-515,Northeast,public hospital
+516,Healthcare-Org-516,midWEST,public hospital
+517,Healthcare-Org-517,Northeast,diagnostic center
+518,Healthcare-Org-518,SOUTHEAST,public hospital
+519,Healthcare-Org-519,southwest,Nursing Home
+520,healthcare-org-520,soUTHeast,diagnostic center
+521,Healthcare-Org-521,soUTHeast,private clinic
+522,Healthcare-Org-522,West,nursing home
+523,Healthcare-Org-523,wEsT,Nursing Home
+524,Healthcare-Org-524,soUTHeast,nursing home
+525,Healthcare-Org-525,SOUTHEAST,Diagnostic Center
+526,Healthcare-Org-526,SOUTHEAST,private clinic
+527,Healthcare-Org-527, Midwest ,nursing home
+528,Healthcare-Org-528, Midwest ,public hospital
+529,Healthcare-Org-529,Northeast,nursing home
+530,healthcare-org-530,southwest,public hospital
+531,Healthcare-Org-531, Midwest ,Diagnostic Center
+532,Healthcare-Org-532,northeast,private clinic
+533,Healthcare-Org-533,soUTHeast,Private Clinic
+534,Healthcare-Org-534,northeast,nursing home
+535,Healthcare-Org-535,southwest,public hospital
+536,Healthcare-Org-536,SOUTHEAST,Diagnostic Center
+537,Healthcare-Org-537, Midwest ,nursing home
+538,Healthcare-Org-538,West,diagnostic center
+539,Healthcare-Org-539,southwest,private clinic
+540,healthcare-org-540,West,Nursing Home
+541,Healthcare-Org-541, Midwest ,Private Clinic
+542,Healthcare-Org-542,midWEST,Nursing Home
+543,Healthcare-Org-543,SOUTHEAST,Public Hospital
+544,Healthcare-Org-544,southwest,Public Hospital
+545,Healthcare-Org-545,southwest,nursing home
+546,Healthcare-Org-546,soUTHeast,Public Hospital
+547,Healthcare-Org-547,southwest,Public Hospital
+548,Healthcare-Org-548,SouthWest,diagnostic center
+549,Healthcare-Org-549, Midwest ,Nursing Home
+550,healthcare-org-550,SOUTHEAST,diagnostic center
+551,Healthcare-Org-551,SOUTHEAST,public hospital
+552,Healthcare-Org-552,SouthWest,private clinic
+553,Healthcare-Org-553,SouthWest,Nursing Home
+554,Healthcare-Org-554,West,diagnostic center
+555,Healthcare-Org-555,SouthWest,Public Hospital
+556,Healthcare-Org-556,southwest,nursing home
+557,Healthcare-Org-557,West,diagnostic center
+558,Healthcare-Org-558,Northeast,private clinic
+559,Healthcare-Org-559, Midwest ,Public Hospital
+560,healthcare-org-560,northeast,public hospital
+561,Healthcare-Org-561,soUTHeast,nursing home
+562,Healthcare-Org-562,SOUTHEAST,public hospital
+563,Healthcare-Org-563,wEsT,Nursing Home
+564,Healthcare-Org-564,southwest,Public Hospital
+565,Healthcare-Org-565,Northeast,Diagnostic Center
+566,Healthcare-Org-566,SOUTHEAST,Private Clinic
+567,Healthcare-Org-567, Midwest ,private clinic
+568,Healthcare-Org-568,southwest,diagnostic center
+569,Healthcare-Org-569,SOUTHEAST,diagnostic center
+570,healthcare-org-570,Northeast,nursing home
+571,Healthcare-Org-571,soUTHeast,public hospital
+572,Healthcare-Org-572,northeast,diagnostic center
+573,Healthcare-Org-573,midWEST,Diagnostic Center
+574,Healthcare-Org-574,SouthWest,public hospital
+575,Healthcare-Org-575,midWEST,Nursing Home
+576,Healthcare-Org-576,midWEST,private clinic
+577,Healthcare-Org-577,West,Private Clinic
+578,Healthcare-Org-578,northeast,Nursing Home
+579,Healthcare-Org-579,southwest,public hospital
+580,healthcare-org-580,midWEST,nursing home
+581,Healthcare-Org-581,midWEST,private clinic
+582,Healthcare-Org-582,SOUTHEAST,Diagnostic Center
+583,Healthcare-Org-583,Northeast,private clinic
+584,Healthcare-Org-584,southwest,nursing home
+585,Healthcare-Org-585,West,public hospital
+586,Healthcare-Org-586,West,Nursing Home
+587,Healthcare-Org-587,Northeast,Public Hospital
+588,Healthcare-Org-588,wEsT,Diagnostic Center
+589,Healthcare-Org-589,wEsT,Public Hospital
+590,healthcare-org-590,northeast,Nursing Home
+591,Healthcare-Org-591,northeast,diagnostic center
+592,Healthcare-Org-592,midWEST,nursing home
+593,Healthcare-Org-593, Midwest ,private clinic
+594,Healthcare-Org-594,SouthWest,nursing home
+595,Healthcare-Org-595,midWEST,diagnostic center
+596,Healthcare-Org-596,SouthWest,public hospital
+597,Healthcare-Org-597,southwest,public hospital
+598,Healthcare-Org-598,southwest,private clinic
+599,Healthcare-Org-599,northeast,Private Clinic
+600,healthcare-org-600, Midwest ,private clinic
+601,Healthcare-Org-601,Northeast,private clinic
+602,Healthcare-Org-602,West,Private Clinic
+603,Healthcare-Org-603, Midwest ,Diagnostic Center
+604,Healthcare-Org-604,SOUTHEAST,Diagnostic Center
+605,Healthcare-Org-605,SouthWest,public hospital
+606,Healthcare-Org-606,Northeast,Public Hospital
+607,Healthcare-Org-607, Midwest ,nursing home
+608,Healthcare-Org-608,SouthWest,private clinic
+609,Healthcare-Org-609,West,nursing home
+610,healthcare-org-610,midWEST,Diagnostic Center
+611,Healthcare-Org-611,midWEST,nursing home
+612,Healthcare-Org-612,West,nursing home
+613,Healthcare-Org-613,SouthWest,Public Hospital
+614,Healthcare-Org-614,West,diagnostic center
+615,Healthcare-Org-615,SouthWest,private clinic
+616,Healthcare-Org-616,wEsT,Private Clinic
+617,Healthcare-Org-617,northeast,Public Hospital
+618,Healthcare-Org-618,midWEST,private clinic
+619,Healthcare-Org-619,northeast,Diagnostic Center
+620,healthcare-org-620,southwest,Public Hospital
+621,Healthcare-Org-621,southwest,nursing home
+622,Healthcare-Org-622,SOUTHEAST,private clinic
+623,Healthcare-Org-623,West,Public Hospital
+624,Healthcare-Org-624,Northeast,Private Clinic
+625,Healthcare-Org-625,wEsT,private clinic
+626,Healthcare-Org-626,SOUTHEAST,Public Hospital
+627,Healthcare-Org-627,northeast,public hospital
+628,Healthcare-Org-628,Northeast,Public Hospital
+629,Healthcare-Org-629,SOUTHEAST,nursing home
+630,healthcare-org-630,SouthWest,nursing home
+631,Healthcare-Org-631,Northeast,private clinic
+632,Healthcare-Org-632,wEsT,public hospital
+633,Healthcare-Org-633, Midwest ,diagnostic center
+634,Healthcare-Org-634,midWEST,Private Clinic
+635,Healthcare-Org-635,SouthWest,Private Clinic
+636,Healthcare-Org-636,SouthWest,Diagnostic Center
+637,Healthcare-Org-637,soUTHeast,nursing home
+638,Healthcare-Org-638, Midwest ,Public Hospital
+639,Healthcare-Org-639,SouthWest,Diagnostic Center
+640,healthcare-org-640,midWEST,public hospital
+641,Healthcare-Org-641, Midwest ,nursing home
+642,Healthcare-Org-642,southwest,Public Hospital
+643,Healthcare-Org-643,SouthWest,Private Clinic
+644,Healthcare-Org-644,Northeast,Diagnostic Center
+645,Healthcare-Org-645,soUTHeast,Public Hospital
+646,Healthcare-Org-646,soUTHeast,Public Hospital
+647,Healthcare-Org-647,soUTHeast,nursing home
