@@ -1,0 +1,184 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_CATEGORY,UNIT_COST,LIST_PRICE
+501,Bulk-Pack Scalpel Blades,Surgical Supplies,435.39,623.59
+502,Compact Suture Kit,Surgical Supplies,449.5,603.68
+503,Standard Centrifuge Tube,Lab Equipment,71.8,94.91
+504,Single-Use Bedpan,Patient Care,7.93,12.53
+505,Xl Petri Dish,Lab Equipment,38.3,52.36
+506,Compact N95 Respirator,Personal Protective Equipment,9.88,13.61
+507,Compact Bedpan,Patient Care,1.66,2.69
+508,Compact Compression Stockings,Patient Care,6.17,10.04
+509,Compact Surgical Mask,Personal Protective Equipment,1.66,2.22
+510,Compact Suture Kit,Surgical Supplies,255.3,341.41
+511,Single-Use Wheelchair,Patient Care,3.3,5.24
+512,Standard Patient Wristband,Patient Care,10.56,15.24
+513,Premium Nitrile Gloves,Personal Protective Equipment,2.8,4.33
+514,Premium Surgical Drapes,Surgical Supplies,280.75,378.21
+515,Pro-Grade Pipette Tips,Lab Equipment,38.67,58.06
+516,Premium Patient Wristband,Patient Care,7.04,10.24
+517,Pro-Grade Surgical Mask,Personal Protective Equipment,11.84,16.82
+518,Pro-Grade Face Shield,Personal Protective Equipment,7,9.58
+519,Compact Ultrasound Gel,Diagnostics,36.56,48.52
+520,Single-Use Patient Wristband,Patient Care,6.08,9.27
+521,Standard Surgical Mask,Personal Protective Equipment,11.14,15.24
+522,Bulk-Pack Petri Dish,Lab Equipment,32.15,46.02
+523,Bulk-Pack Surgical Mask,Personal Protective Equipment,3.19,4.47
+524,Standard Pipette Tips,Lab Equipment,69.73,94.24
+525,Pro-Grade Face Shield,Personal Protective Equipment,5.4,7.05
+526,Xl Iv Stand,Patient Care,10.83,16.53
+527,Xl Bedpan,Patient Care,2.47,4.08
+528,Bulk-Pack Bone Saw,Surgical Supplies,213.55,311.65
+529,Bulk-Pack Bone Saw,Surgical Supplies,339.66,574.91
+530,Single-Use Scalpel Blades,Surgical Supplies,355.07,578.4
+531,Pro-Grade Face Shield,Personal Protective Equipment,0.91,1.44
+532,Standard Glucose Monitor,Diagnostics,34.94,59.07
+533,Standard Rapid Strep Test,Diagnostics,15.12,19.78
+534,Pro-Grade Rapid Strep Test,Diagnostics,52.34,71.97
+535,Standard Petri Dish,Lab Equipment,43.14,67.52
+536,Compact Glucose Monitor,Diagnostics,68.2,98.92
+537,Xl Centrifuge Tube,Lab Equipment,38.5,62.18
+538,Bulk-Pack Pipette Tips,Lab Equipment,70.97,102.23
+539,Premium Ultrasound Gel,Diagnostics,42.06,54.72
+540,Compact Centrifuge Tube,Lab Equipment,65.43,91.11
+541,Single-Use Compression Stockings,Patient Care,2.06,3.39
+542,Single-Use Ekg Electrodes,Diagnostics,52.54,73.54
+543,Single-Use Blood Collection Tube,Diagnostics,43.16,68.18
+544,Pro-Grade Compression Stockings,Patient Care,10.7,16.36
+545,Single-Use Hospital Gown,Patient Care,1.89,3.2
+546,Bulk-Pack Compression Stockings,Patient Care,8.82,14.24
+547,Premium Nitrile Gloves,Personal Protective Equipment,1.64,2.59
+548,Standard Incubator Tray,Lab Equipment,16.06,24.69
+549,Bulk-Pack Compression Stockings,Patient Care,7.36,10.61
+550,Xl Surgical Drapes,Surgical Supplies,262.73,378.42
+551,Compact Compression Stockings,Patient Care,7.86,13.04
+552,Premium Blood Collection Tube,Diagnostics,34.38,47.83
+553,Pro-Grade Glucose Monitor,Diagnostics,24.52,40.57
+554,Compact Microscope Slides,Lab Equipment,42.7,61.63
+555,Standard Scalpel Blades,Surgical Supplies,370.96,591.84
+556,Pro-Grade Incubator Tray,Lab Equipment,35.37,48.4
+557,Xl Pulse Oximeter,Diagnostics,67.62,103.27
+558,Compact Centrifuge Tube,Lab Equipment,15.88,23.04
+559,Single-Use Hemostat Forceps,Surgical Supplies,313.19,413.43
+560,Standard Bone Saw,Surgical Supplies,165.1,280.28
+561,Pro-Grade Compression Stockings,Patient Care,8.25,12.32
+562,Bulk-Pack Incubator Tray,Lab Equipment,15.78,25.18
+563,Premium Hospital Gown,Patient Care,9.06,14.2
+564,Compact Incubator Tray,Lab Equipment,58.84,96.19
+565,Single-Use Pipette Tips,Lab Equipment,59.32,99.14
+566,Standard Nitrile Gloves,Personal Protective Equipment,2.72,3.75
+567,Xl Hemostat Forceps,Surgical Supplies,477.06,738.28
+568,Bulk-Pack Surgical Drapes,Surgical Supplies,177.57,274.3
+569,Premium Lab Reagent,Lab Equipment,21.45,35.87
+570,Single-Use Patient Wristband,Patient Care,7.35,12.25
+571,Compact Patient Wristband,Patient Care,0.76,1
+572,Xl Surgical Mask,Personal Protective Equipment,6.82,10.21
+573,Bulk-Pack Ekg Electrodes,Diagnostics,15.18,22.18
+574,Bulk-Pack Isolation Gown,Personal Protective Equipment,5.06,6.84
+575,Premium Suture Kit,Surgical Supplies,327.14,545.77
+576,Single-Use Face Shield,Personal Protective Equipment,3.68,5.57
+577,Bulk-Pack Face Shield,Personal Protective Equipment,3.07,4.92
+578,Single-Use Blood Collection Tube,Diagnostics,59.33,83.6
+579,Single-Use Rapid Strep Test,Diagnostics,32.66,44.06
+580,Compact Scalpel Blades,Surgical Supplies,137.4,226.8
+581,Bulk-Pack Pulse Oximeter,Diagnostics,60.54,99.47
+582,Pro-Grade Hospital Gown,Patient Care,4.8,6.61
+583,Standard Ultrasound Gel,Diagnostics,73.36,110.17
+584,Xl Blood Collection Tube,Diagnostics,43.35,70.38
+585,Pro-Grade Rapid Strep Test,Diagnostics,16.91,22.68
+586,Pro-Grade Pipette Tips,Lab Equipment,72.41,112.59
+587,Xl Surgical Drapes,Surgical Supplies,302.85,474.19
+588,Premium Microscope Slides,Lab Equipment,36.06,48.69
+589,Premium Bedpan,Patient Care,1.28,1.7
+590,Standard Glucose Monitor,Diagnostics,57.87,82.38
+591,Premium Centrifuge Tube,Lab Equipment,39.95,55.5
+592,Compact Trocar System,Surgical Supplies,367.87,596.86
+593,Premium Rapid Strep Test,Diagnostics,40.68,67.4
+594,Xl Shoe Covers,Personal Protective Equipment,1.6,2.5
+595,Standard Nitrile Gloves,Personal Protective Equipment,10.99,16.89
+596,Bulk-Pack N95 Respirator,Personal Protective Equipment,1.95,3.13
+597,Pro-Grade Pipette Tips,Lab Equipment,37.61,62.45
+598,Bulk-Pack Blood Collection Tube,Diagnostics,43.35,61.73
+599,Premium Iv Stand,Patient Care,1.25,2.07
+600,Premium Suture Kit,Surgical Supplies,244.89,366.51
+601,Xl Scalpel Blades,Surgical Supplies,344.49,577.36
+602,Standard Ultrasound Gel,Diagnostics,49.69,76.5
+603,Xl Shoe Covers,Personal Protective Equipment,4,6.73
+604,Compact Scalpel Blades,Surgical Supplies,144.13,211.92
+605,Compact Ekg Electrodes,Diagnostics,49.04,72.37
+606,Standard Incubator Tray,Lab Equipment,49.01,82.7
+607,Bulk-Pack Patient Wristband,Patient Care,0.91,1.48
+608,Pro-Grade Shoe Covers,Personal Protective Equipment,3.28,4.61
+609,Premium Blood Collection Tube,Diagnostics,24.36,38.09
+610,Compact Bone Saw,Surgical Supplies,335.99,461.72
+611,Compact Face Shield,Personal Protective Equipment,11.69,15.87
+612,Standard Surgical Drapes,Surgical Supplies,473.4,649.01
+613,Compact Incubator Tray,Lab Equipment,38.49,64.11
+614,Single-Use Centrifuge Tube,Lab Equipment,68.12,99.27
+615,Bulk-Pack Glucose Monitor,Diagnostics,36.67,55.26
+616,Xl Nitrile Gloves,Personal Protective Equipment,1.42,2.33
+617,Pro-Grade Ekg Electrodes,Diagnostics,21.47,33.1
+618,Single-Use Blood Collection Tube,Diagnostics,27.91,46.18
+619,Xl Hospital Gown,Patient Care,11.72,19.21
+620,Xl Iv Stand,Patient Care,7.6,12.77
+621,Compact Surgical Mask,Personal Protective Equipment,8.93,13.11
+622,Xl Centrifuge Tube,Lab Equipment,69.28,91.64
+623,Premium Hemostat Forceps,Surgical Supplies,126.16,204.34
+624,Bulk-Pack Suture Kit,Surgical Supplies,447.47,595.87
+625,Premium Scalpel Blades,Surgical Supplies,169.64,253.23
+626,Compact Surgical Mask,Personal Protective Equipment,6.01,8.89
+627,Bulk-Pack Ultrasound Gel,Diagnostics,36.22,59.8
+628,Premium Hospital Gown,Patient Care,2.32,3.54
+629,Xl Microscope Slides,Lab Equipment,66.15,107.96
+630,Standard Isolation Gown,Personal Protective Equipment,10.04,15.35
+631,Premium Pulse Oximeter,Diagnostics,28.25,43.74
+632,Premium Hemostat Forceps,Surgical Supplies,304.64,433.54
+633,Single-Use Nitrile Gloves,Personal Protective Equipment,2.59,3.84
+634,Standard Pulse Oximeter,Diagnostics,43.61,60.86
+635,Premium Incubator Tray,Lab Equipment,53.43,89.43
+636,Single-Use Petri Dish,Lab Equipment,55,79.32
+637,Single-Use N95 Respirator,Personal Protective Equipment,11.85,19.79
+638,Standard Bone Saw,Surgical Supplies,120.76,177.64
+639,Premium Centrifuge Tube,Lab Equipment,20.92,28.29
+640,Single-Use Scalpel Blades,Surgical Supplies,259.06,407.45
+641,Premium Patient Wristband,Patient Care,11.59,17.07
+642,Pro-Grade Scalpel Blades,Surgical Supplies,217.95,322.83
+643,Bulk-Pack N95 Respirator,Personal Protective Equipment,2,3.26
+644,Single-Use Ultrasound Gel,Diagnostics,66.68,112.01
+645,Standard Surgical Drapes,Surgical Supplies,209.15,329.51
+646,Bulk-Pack Petri Dish,Lab Equipment,40.46,53.64
+647,Xl Surgical Mask,Personal Protective Equipment,2.76,4.61
+648,Xl Scalpel Blades,Surgical Supplies,451.55,764.83
+649,Compact Microscope Slides,Lab Equipment,47.06,76.52
+650,Single-Use Hemostat Forceps,Surgical Supplies,447.19,629.64
+651,Single-Use Bone Saw,Surgical Supplies,371.71,620.94
+652,Xl Surgical Mask,Personal Protective Equipment,4.38,6.44
+653,Compact Wheelchair,Patient Care,11.21,18.9
+654,Xl Nitrile Gloves,Personal Protective Equipment,4.68,7.6
+655,Bulk-Pack Pipette Tips,Lab Equipment,56.85,83.99
+656,Xl Ultrasound Gel,Diagnostics,18.13,27.23
+657,Pro-Grade Trocar System,Surgical Supplies,356.31,509.76
+658,Bulk-Pack Hemostat Forceps,Surgical Supplies,349.59,454.72
+659,Pro-Grade Bedpan,Patient Care,6.09,9.37
+660,Bulk-Pack Glucose Monitor,Diagnostics,58.99,97.26
+661,Pro-Grade Suture Kit,Surgical Supplies,188.79,272.99
+662,Standard N95 Respirator,Personal Protective Equipment,3.98,6.69
+663,Bulk-Pack Hemostat Forceps,Surgical Supplies,468.78,671.02
+664,Standard Microscope Slides,Lab Equipment,20.48,33
+665,Xl Suture Kit,Surgical Supplies,378.1,642.03
+666,Single-Use Shoe Covers,Personal Protective Equipment,11.96,19.07
+667,Pro-Grade Pulse Oximeter,Diagnostics,29.46,42.26
+668,Standard Hospital Gown,Patient Care,8.52,11.71
+669,Compact Wheelchair,Patient Care,2.75,4.09
+670,Bulk-Pack Patient Wristband,Patient Care,1.79,2.41
+671,Standard Shoe Covers,Personal Protective Equipment,1.94,2.71
+672,Xl Face Shield,Personal Protective Equipment,5.41,8.23
+673,Single-Use Shoe Covers,Personal Protective Equipment,1.21,2.03
+674,Standard Ekg Electrodes,Diagnostics,69.49,96.97
+675,Standard Bone Saw,Surgical Supplies,191.25,300.81
+676,Bulk-Pack Centrifuge Tube,Lab Equipment,65.31,85.69
+677,Single-Use Incubator Tray,Lab Equipment,23.4,38.03
+678,Pro-Grade Ekg Electrodes,Diagnostics,47.78,69.51
+679,Bulk-Pack Nitrile Gloves,Personal Protective Equipment,8.77,12.53
+680,Premium Shoe Covers,Personal Protective Equipment,0.92,1.3
+681,Standard Petri Dish,Lab Equipment,15.27,19.91
+682,Single-Use Lab Reagent,Lab Equipment,56.96,89.66
+683,Pro-Grade Compression Stockings,Patient Care,8.35,12.93
