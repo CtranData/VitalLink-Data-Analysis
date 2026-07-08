@@ -1,7 +1,7 @@
 # VitalLink Operations & Financial Analysis (2024–2025)
 
 ## Purpose
-This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into structured business reporting. Goal is to leverage previous data benchmarks to access the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that makes them successful. 
+This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights sought to improve and better the company. Goal is to leverage previous data benchmarks to access the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that makes them successful. 
 
 ## Overview 
 Vitalink is a company that operates being a healthcare industrial/pharmaceutical distributor as one of its branches.
