@@ -1,18 +1,21 @@
 # VitalLink Operations & Financial Analysis (2024–2025)
-##Company Overview: Vitallink is a B2B healthcare supply chain distributor of medical goods involving medical-surgical supplies, personal protective equipments, and clinical equipments. 
+## Company Overview: Vitallink is a B2B healthcare supply chain distributor of medical goods involving medical-surgical supplies, and equipment
 
 ## Purpose 
-This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valauble resources in other areas of the company to optimize. Goal is to leverage previous data benchmarks to access the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that makes them successful. 
+This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valuable resources in other areas of the company to optimize. Goal is to leverage previous data benchmarks to assess the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that makes them successful. 
+
+## Tools Section
+Usage of Excel functions in GoogleSheets to clean the data, Visual made using Googlesheets
 
 ## Core Findings
 * **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit margin consistently between 27% and 28.5%. The company is aligning perfectly within the standard 15% to 30% profit margin benchmark for industrial medical distribution.
 * **The Growth Trade-Off:** Sticking strictly to highly conservative, safe risk-management plans potentially caps top-line revenue growth, limiting the massive potential gains that could break VitalLink past its historical average industry baseline. Risk also comes with reward.
-* **Demand in Seasons:** Total revenue fluctuates, hitting its highest points between July to October, before dipping during the winter seaons (November to February). Given the fluctuations the profit margin remains entirely consistent despite this shift in order volume.
+* **Demand in Seasons:** Total revenue fluctuates, hitting its highest points between July to October, before dipping during the winter seasons (November to February). Given the fluctuations the profit margin remains entirely consistent despite this shift in order volume.
 * **Operational Predictability:** This multi-year consistency in profit margin proves that VitalLink's current work structure and internal systems produces highly predictable and sustainable results.
 * **Sales & Supply Chain Alignment:** Maintaining flat margins over the span of two years indicates that the B2B sales division has a solid pricing strategy and maintains effective communication with internal branches like the supply chain.
   
 ## Data Visualization
-![Revenue Insights](Revenue_Insights.png)
+![Revenue Insights Chart](./images/Revenue_Insights.png)
 
 ## Operational Leverage
 * **Proactive Resource Allocation:** VitalLink can leverage this historical data to schedule appropriate warehouse staffing and scale up inventory stock levels prior to peak months, effectively preventing stockouts and meeting high-volume seasonal demand.
