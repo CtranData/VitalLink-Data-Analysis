@@ -4,13 +4,25 @@
 ## Purpose 
 This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valuable resources in other areas of the company to optimize. Goal is to leverage previous data benchmarks to assess the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that makes them successful. 
 
-## Tools Section
-Usage of Excel functions in GoogleSheets to clean the data, Visual made using Googlesheets
+## Data Source
+This project uses a synthetic dataset generated to simulate 24 months 
+of B2B healthcare supply chain transactions, created with Python 
+(via Gemini-assisted prompting) to model realistic order volume, 
+pricing, and margin behavior for a mid-size medical distributor.
+
+## Tools & Methodology
+* **Data Generation:** Python (VS Code), synthetic data simulating 
+  transactional records
+* **Data Cleaning & Transformation:** Google Sheets — ARRAYFORMULA, 
+  IF, XLOOKUP for record-level cleaning and joins
+* **Analysis:** Pivot Tables for monthly aggregation (revenue, gross 
+  profit, margin, order volume)
+* **Visualization:** Google Sheets native charting
 
 ## Core Findings
-* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit margin consistently between 27% and 28.5%. The company is aligning perfectly within the standard 15% to 30% profit margin benchmark for industrial medical distribution.
+* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit margin between 27.25% to 28.39%. The company is aligning perfectly within the standard 15% to 30% profit margin benchmark for industrial medical distribution.
 * **The Growth Trade-Off:** Sticking strictly to highly conservative, safe risk-management plans potentially caps top-line revenue growth, limiting the massive potential gains that could break VitalLink past its historical average industry baseline. Risk also comes with reward.
-* **Demand in Seasons:** Total revenue fluctuates, hitting its highest points between July to October, before dipping during the winter seasons (November to February). Given the fluctuations the profit margin remains entirely consistent despite this shift in order volume.
+* **Seasonality:** Total revenue fluctuates, hitting its highest points between July to October, before revenue softens in Jan-Feb and Nov. Comparing the top average months revenue to the lows is ~8-9% difference worth mentioning
 * **Operational Predictability:** This multi-year consistency in profit margin proves that VitalLink's current work structure and internal systems produces highly predictable and sustainable results.
 * **Sales & Supply Chain Alignment:** Maintaining flat margins over the span of two years indicates that the B2B sales division has a solid pricing strategy and maintains effective communication with internal branches like the supply chain.
   
@@ -24,3 +36,17 @@ Usage of Excel functions in GoogleSheets to clean the data, Visual made using Go
 ## Strategic Recommendations
 * **High-Volume Contract Optimization:** Introduce strategic sales parameters, such as lowering unit costs for high-volume orders tied to longer-term contracts. This strategy secures recurring revenue, lowers the rate of denied or canceled orders, and ensures customers are more committed to their payment schedules.
 * **Operational Flexibility Premium:** Implement a specialized pricing tier that charges a premium for time-sensitive orders and sophisticated, custom-tailored transactions. This allows the sales team to directly monetize the operational flexibility required to fulfill complex client requests.
+
+## Limitations
+- This dataset is synthetic and simulates plausible business patterns; 
+  it does not reflect actual VitalLink transactions or real market 
+  conditions.
+- The dataset spans 24 months, which limits confidence in multi-year 
+  seasonal trend claims — a longer time horizon would strengthen the 
+  seasonality findings.
+- Margin is analyzed at the aggregate level only; a category-level 
+  breakdown (PPE vs. surgical supplies vs. equipment) could reveal 
+  variation the top-line number hides.
+- Recommendations (contract tiering, flexibility pricing) are 
+  hypotheses grounded in the observed patterns, not validated against 
+  actual client-level order data.
