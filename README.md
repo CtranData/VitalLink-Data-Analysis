@@ -27,7 +27,7 @@ pricing, and margin behavior for a mid-size medical distributor.
 * **Sales & Supply Chain Alignment:** Maintaining flat margins over the span of two years indicates that the B2B sales division has a solid pricing strategy and maintains effective communication with internal branches like the supply chain.
   
 ## Data Visualization
-![Revenue Insights Chart](./<img width="600" height="371" alt="Revenue Insights" src="https://github.com/user-attachments/assets/66ed9bfd-298a-4fac-855f-c04e205c5ca7" />)
+(./<img width="600" height="371" alt="Revenue Insights" src="https://github.com/user-attachments/assets/66ed9bfd-298a-4fac-855f-c04e205c5ca7" />)
 
 ## Operational Leverage
 * **Proactive Resource Allocation:** VitalLink can leverage this historical data to schedule appropriate warehouse staffing and scale up inventory stock levels prior to peak months, effectively preventing stockouts and meeting high-volume seasonal demand.
