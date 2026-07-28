@@ -30,6 +30,7 @@ pricing, and margin behavior for a mid-size medical distributor.
 <img width="600" height="371" alt="Revenue Insights" src="https://github.com/user-attachments/assets/66ed9bfd-298a-4fac-855f-c04e205c5ca7" />
 <img width="600" height="371" alt="Category Performance" src="https://github.com/user-attachments/assets/3748bad9-75c3-4659-aabf-2c61f7306bad" />
 <img width="654" height="404" alt="Order Volume vs Unit Price by Category " src="https://github.com/user-attachments/assets/5c8634ae-d705-4e6f-8472-ddab12133056" />
+
 Points from left to right by volume: Surgical Supplies, Lab Equipment, Diagnostics, Patient Care, Personal Protective Equipment.
 
 ## Operational Leverage
