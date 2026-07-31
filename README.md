@@ -1,5 +1,7 @@
 # VitalLink Operations & Financial Analysis (2024–2025)
-## Company Overview: Vitallink is a B2B healthcare supply chain distributor of medical goods involving medical-surgical supplies, and equipment
+## Company Overview
+
+VitalLink is a business-to-business (B2B) healthcare supply chain distributor supplying hospitals, clinics, and outpatient facilities with medical goods across five product categories: Diagnostics, Lab Equipment, Patient Care, Personal Protective Equipment (PPE), and Surgical Supplies. The company manages thousands of orders annually across these categories. 
 
 ## Purpose 
 This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valuable resources in other areas of the company to optimize. Goal is to leverage previous data benchmarks to assess the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that makes them successful. 
