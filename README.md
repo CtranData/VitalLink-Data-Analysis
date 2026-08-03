@@ -4,7 +4,7 @@
 VitalLink is a business-to-business (B2B) healthcare supply chain distributor supplying hospitals, clinics, and outpatient facilities with medical goods across five product categories: Diagnostics, Lab Equipment, Patient Care, Personal Protective Equipment (PPE), and Surgical Supplies. The company manages thousands of orders annually across these categories. 
 
 ## Purpose 
-This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valuable resources in other areas of the company to optimize. Goal is to leverage previous data benchmarks to assess the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that makes them successful. 
+This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valuable resources in other areas of the company to optimize. The goal is to leverage previous data benchmarks to assess the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that make  them successful. 
 
 ## Data Source
 This project uses a synthetic dataset generated to simulate 24 months 
@@ -22,10 +22,10 @@ pricing, and margin behavior for a mid-size medical distributor.
 * **Visualization:** Google Sheets native charting
 
 ## Core Findings
-* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit margin between 27.25% to 28.39%. The company is aligning perfectly within the standard 15% to 30% profit margin benchmark for industrial medical distribution.
+* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit margin between 27.25% and 28.39%. The company is aligning perfectly within the standard 15% to 30% profit margin benchmark for industrial medical distribution.
 * **The Growth Trade-Off:** Sticking strictly to highly conservative, safe risk-management plans potentially caps top-line revenue growth, limiting the massive potential gains that could break VitalLink past its historical average industry baseline.
 * **Seasonality:** Total revenue fluctuates, peaking between July and October before softening in Jan-Feb and Nov. The gap between peak and low months is moderate — roughly 8-9% — indicating demand swings are noticeable but not extreme.
-* **Operational Predictability:** This multi-year consistency in profit margin proves that VitalLink's current work structure and internal systems produces highly predictable and sustainable results.
+* **Operational Predictability:** This multi-year consistency in profit margin proves that VitalLink's current work structure and internal systems produce highly predictable and sustainable results.
 * **Sales & Supply Chain Alignment:** Maintaining flat margins over the span of two years indicates that the B2B sales division has a solid pricing strategy and maintains effective communication with internal branches like the supply chain.
 * **Category Insights:** Gross margin stays consistent across every product category (27.2% – 29.3%), with Patient Care posting both the highest margin and the highest order volume — indicating margin discipline holds even under high order volume.
 * **Volume-Price Relationship:** Order volume and unit price show an inverse relationship — low-volume categories like Surgical Supplies carry premium unit prices ($448 average), while high-volume categories like Personal Protective Equipment and Patient Care sit at much lower unit prices ($8 – $9 average) despite making up the majority of total order quantity.
@@ -41,8 +41,9 @@ Points from left to right by volume: Surgical Supplies, Lab Equipment, Diagnosti
 * **Slow-Season Inventory Optimization:** Because the winter slowdown is highly predictable, suppliers can actively lower stock overloads during the slow seasons (November to February). This minimizes excess holding costs and allows the company to prioritize its resources into other departments or preserve them for the busy summer and fall push (June to October).
 
 ## Strategic Recommendations
-* **High-Volume Contract Optimization:** The volume-price shows Personal Protective Equipment and Patient Care holding the highest order volumes (580,502 and 474,756 units respectively) but the lowest average unit prices (~$8–9) — indicating the company already has significant volume leverage in these categories. Introducing strategic sales parameters, such as lowering unit costs for high-volume orders tied to long contracts would help capitalize on this leverage. This strategy assists with ensuring recurring revenue, lowers the rate of denied or canceled orders, and ensures customers are more committed to their payment schedules.
-* **Operational Flexibility Premium:** In contrast Surgical Supplies sits on opposite end of the spectrum — low order volume (4,754 units) paired with a premium average unit price (~$448) — suggesting these are lower-frequency, higher-value, likely more specialized orders. Implementing a specialized pricing tier that charges a premium for time-sensitive orders and sophisticated, custom-tailored transactions would let the sales team directly monetize the operational flexibility already implicit in this category's order pattern.
+* **High-Volume Contract Optimization:** The volume-price relationship shows Personal Protective Equipment and Patient Care holding the highest order volumes (580,502 and 474,756 units respectively) but the lowest average unit prices (~$8–9) — indicating the company already has significant volume leverage in these categories. Introducing strategic sales parameters, such as lowering unit costs for high-volume orders tied to long-term contracts would help capitalize on this leverage. "This strategy secures recurring revenue, lowers the rate of denied or canceled orders, and ensures customers are more committed to their payment schedules."
+
+* **Operational Flexibility Premium:** In contrast, Surgical Supplies sits on the opposite end of the spectrum — low order volume (4,754 units) paired with a premium average unit price (~$448) — suggesting these are lower-frequency, higher-value, likely more specialized orders. Implementing a specialized pricing tier that charges a premium for time-sensitive orders and sophisticated, custom-tailored transactions would let the sales team directly monetize the operational flexibility already implicit in this category's order pattern.
 
 ## Limitations
 - This dataset is synthetic and simulates plausible business patterns; 
