@@ -42,7 +42,7 @@ pricing, and margin behavior for a mid-size medical distributor.
   📄 [View the raw formulas and pivot tables in Google Sheets](https://docs.google.com/spreadsheets/d/1cYHJ10AGgXKrqCoVhLmTnDTmqcX5dA4-6U_2r6ZeTKk/edit?usp=sharing)
   
 ## Core Findings
-* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit  between 27.25% and 28.39%. The company is aligning perfectly within the standard 15% to 30% profit  benchmark for industrial medical distribution.
+* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit margin between 27.25% and 28.39%. The company is aligning perfectly within the standard 15% to 30% profit margin benchmark for industrial medical distribution.
 * **The Growth Trade-Off:** Sticking strictly to highly conservative, safe risk-management plans potentially caps top-line revenue growth, limiting the massive potential gains that could break VitalLink past its historical average industry baseline.
 * **Seasonality:** Total revenue fluctuates, peaking between July and October before softening in Jan-Feb and Nov. The gap between peak and low months is moderate — roughly 8-9% — indicating demand swings are noticeable but not extreme.
 * **Operational Predictability:** This multi-year consistency in profit margin proves that VitalLink's current work structure and internal systems produce highly predictable and sustainable results.
