@@ -1,10 +1,13 @@
 # VitalLink Operations & Financial Analysis (2024–2025)
+
+📊 [View the full analysis spreadsheet](https://docs.google.com/spreadsheets/d/1cYHJ10AGgXKrqCoVhLmTnDTmqcX5dA4-6U_2r6ZeTKk/edit?usp=sharing)
+
 ## Company Overview
 
 VitalLink is a business-to-business (B2B) healthcare supply chain distributor supplying hospitals, clinics, and outpatient facilities with medical goods across five product categories: Diagnostics, Lab Equipment, Patient Care, Personal Protective Equipment (PPE), and Surgical Supplies. The company manages thousands of orders annually across these categories. 
 
 ## Purpose 
-This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valuable resources in other areas of the company to optimize. The goal is to leverage previous data benchmarks to assess the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that make  them successful. 
+This project serves to handle the end-to-end data analyst lifecycle, transforming raw, uncleaned transactional healthcare supply records into business insights to relocate valuable resources in other areas of the company to optimize. The goal is to leverage previous data benchmarks to assess the performance of the company's workflow and form possible suggestions and insights to further improve their margin and results that make them successful. 
 
 ## Data Source
 This project uses a synthetic dataset generated to simulate 24 months 
@@ -35,9 +38,11 @@ pricing, and margin behavior for a mid-size medical distributor.
 - **XLOOKUP:** Joined product details from `Cleaned_Products` into 
   `Cleaned_Orders` by Product ID to combine transactional and 
   reference data for category-level analysis.
+
+  📄 [View the raw formulas and pivot tables in Google Sheets](https://docs.google.com/spreadsheets/d/1cYHJ10AGgXKrqCoVhLmTnDTmqcX5dA4-6U_2r6ZeTKk/edit?usp=sharing)
   
 ## Core Findings
-* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit margin between 27.25% and 28.39%. The company is aligning perfectly within the standard 15% to 30% profit margin benchmark for industrial medical distribution.
+* **Resilient Profitability:** A time analysis of VitalLink's performance over 2024 and 2025 shows a stable gross profit  between 27.25% and 28.39%. The company is aligning perfectly within the standard 15% to 30% profit  benchmark for industrial medical distribution.
 * **The Growth Trade-Off:** Sticking strictly to highly conservative, safe risk-management plans potentially caps top-line revenue growth, limiting the massive potential gains that could break VitalLink past its historical average industry baseline.
 * **Seasonality:** Total revenue fluctuates, peaking between July and October before softening in Jan-Feb and Nov. The gap between peak and low months is moderate — roughly 8-9% — indicating demand swings are noticeable but not extreme.
 * **Operational Predictability:** This multi-year consistency in profit margin proves that VitalLink's current work structure and internal systems produce highly predictable and sustainable results.
@@ -56,7 +61,7 @@ Points from left to right by volume: Surgical Supplies, Lab Equipment, Diagnosti
 * **Slow-Season Inventory Optimization:** Because the winter slowdown is highly predictable, suppliers can actively lower stock overloads during the slow seasons (November to February). This minimizes excess holding costs and allows the company to prioritize its resources into other departments or preserve them for the busy summer and fall push (June to October).
 
 ## Strategic Recommendations
-* **High-Volume Contract Optimization:** The volume-price relationship shows Personal Protective Equipment and Patient Care holding the highest order volumes (580,502 and 474,756 units respectively) but the lowest average unit prices (~$8–9) — indicating the company already has significant volume leverage in these categories. Introducing strategic sales parameters, such as lowering unit costs for high-volume orders tied to long-term contracts would help capitalize on this leverage. "This strategy secures recurring revenue, lowers the rate of denied or canceled orders, and ensures customers are more committed to their payment schedules."
+* **High-Volume Contract Optimization:** The volume-price relationship shows Personal Protective Equipment and Patient Care holding the highest order volumes (580,502 and 474,756 units respectively) but the lowest average unit prices (~$8–9) — indicating the company already has significant volume leverage in these categories. Introducing strategic sales parameters, such as lowering unit costs for high-volume orders tied to long-term contracts would help capitalize on this leverage. This strategy secures recurring revenue, lowers the rate of denied or canceled orders, and ensures customers are more committed to their payment schedules.
 
 * **Operational Flexibility Premium:** In contrast, Surgical Supplies sits on the opposite end of the spectrum — low order volume (4,754 units) paired with a premium average unit price (~$448) — suggesting these are lower-frequency, higher-value, likely more specialized orders. Implementing a specialized pricing tier that charges a premium for time-sensitive orders and sophisticated, custom-tailored transactions would let the sales team directly monetize the operational flexibility already implicit in this category's order pattern.
 
@@ -67,9 +72,8 @@ Points from left to right by volume: Surgical Supplies, Lab Equipment, Diagnosti
 - The dataset spans 24 months, which limits confidence in multi-year 
   seasonal trend claims — a longer time horizon would strengthen the 
   seasonality findings.
-- Margin is analyzed at the aggregate level only; a category-level 
-  breakdown (PPE vs. surgical supplies vs. equipment) could reveal 
-  variation the top-line number hides.
+- Findings are based on category averages, which may hide differences 
+  between individual orders within the same category.
 - Recommendations (contract tiering, flexibility pricing) are 
   hypotheses grounded in the observed patterns, not validated against 
   actual client-level order data.
