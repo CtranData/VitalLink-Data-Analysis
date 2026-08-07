@@ -47,7 +47,7 @@ pricing, and margin behavior for a mid-size medical distributor.
 * **Seasonality:** Total revenue fluctuates, peaking between July and October before softening in Jan-Feb and Nov. The gap between peak and low months is moderate — roughly 8-9% — indicating demand swings are noticeable but not extreme.
 * **Operational Predictability:** This multi-year consistency in profit margin proves that VitalLink's current work structure and internal systems produce highly predictable and sustainable results.
 * **Sales & Supply Chain Alignment:** Maintaining flat margins over the span of two years indicates that the B2B sales division has a solid pricing strategy and maintains effective communication with internal branches like the supply chain.
-* **Category Insights:** Gross margin stays consistent across every product category (27.2% – 29.3%), with Patient Care posting both the highest margin and the highest order volume — indicating margin discipline holds even under high order volume.
+* **Category Insights:** Gross margin stays consistent across every product category (27.2% – 29.3%), with Patient Care posting having one of the higher order volume and highest margin — indicating margin discipline holds even under high order volume.
 * **Volume-Price Relationship:** Order volume and unit price show an inverse relationship — low-volume categories like Surgical Supplies carry premium unit prices ($448 average), while high-volume categories like Personal Protective Equipment and Patient Care sit at much lower unit prices ($8 – $9 average) despite making up the majority of total order quantity.
 ## Data Visualization
 <img width="600" height="371" alt="Revenue Insights" src="https://github.com/user-attachments/assets/66ed9bfd-298a-4fac-855f-c04e205c5ca7" />
